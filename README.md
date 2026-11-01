@@ -2,6 +2,19 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
+## Minimalist UI Todo List
+
+A minimalist todo list application with full CRUD functionality using localStorage for persistence. Features include:
+
+- Add new todos
+- Mark todos as completed
+- Edit todos (double-click to edit)
+- Delete individual todos
+- Clear completed todos
+- Clear all todos
+- Real-time statistics
+- Persistent storage
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
